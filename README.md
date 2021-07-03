@@ -1,5 +1,7 @@
 # AMZ_REVIEWS
 end to end NLP including cleaning, modeling and prediction using naive bayes on the amazon review dataset for insights on mobile phone features
+### due to the large dataset I had to run edited versions of the ipynb files across google colab sheets  
+
 
 #### this contains the following files
 
